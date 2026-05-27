@@ -26,22 +26,23 @@ RED = (255, 50, 50)
 # ==============================================================================
 def run_story_intro(screen, clock, font, big_font, screen_w, screen_h):
     story_text = [
-        "NAM 2026...",
+       "NĂM 2026...",
         "",
-        "xuat hien 1 women lam dien dao khap the gioi.",
-        "women phai long anh main (nguoi choi) nhung van co",
+        "xuất hiện 1 women làm điên đảo khắp thế giới.",
+        "women phải lòng anh main (người chơi), nhưng vẫn có",
         "",
-        "nhung ke van muon duoc chiem women do.",
-        "su the hien tai cua the gioi la giai quet moi",
-        "giai quyet moi van de bang am nhac",
-        "chinh vi the ma co rat nhieu ke thu xuat hien,",
-        "thach dau voi main",
+        "những kẻ vẫn muốn được độc chiếm lấy wonman đó.",
+        "su thế hiện tai của thế giới là giải quyết mọi",
+        "vấn đề bằng âm nhạc.",
+        "chính vì thế mà có rất nhiều kẻ thù xuất hiện,",
+        "thách đấu với main",
         "",
         "Chi co minh ban chien dau,"
-        "va women (GIRLFRIEND) co vu",
+        "bạn phải chiến một mình"
+        "và women (GIRLFRIEND) chỉ cổ vũ, không can thiệp vào trận đấu",
         "",
-        "ban phai chien thang tat ca cac ke thu,",
-        "de bao ve em ghe cua minh",
+        "bạn phải chiến thắng tất cả các kẻ thù,",
+        "để bảo vệ em ghẹ của mình",
         "",
         "[ Nhan ENTER hoac SPACE de bo qua ]"
     ]
